@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592245499128",
+    "firebase_url": "https://interactive-dkit.firebaseio.com",
+    "project_id": "interactive-dkit",
+    "storage_bucket": "interactive-dkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592245499128:android:1a9e31e5b8f2b7b51c070d",
+        "android_client_info": {
+          "package_name": "com.sentdyem.Interactivedkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592245499128-9li7ka5nf8aj030182b9tmu5qk75otuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbIlK5a_09hP7HBx-RBV2hIYXaC6ilns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592245499128-9li7ka5nf8aj030182b9tmu5qk75otuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
